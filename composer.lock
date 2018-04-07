@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "04439f601157441180459bb8aafd8f47",
+    "content-hash": "62bbb1bc461b3a74072b9b0750a2f5f4",
     "packages": [
         {
             "name": "alchemy/zippy",
@@ -3726,7 +3726,7 @@
                 "source": "http://cgit.drupalcode.org/fb_instant_articles",
                 "email": "james.nesbitt@wunderkraut.com"
             },
-            "time": "2016-09-07 07:21:14"
+            "time": "2016-09-07T07:21:14+00:00"
         },
         {
             "name": "drupal/field_group",
@@ -5944,7 +5944,7 @@
             "support": {
                 "source": "http://cgit.drupalcode.org/views_load_more"
             },
-            "time": "2015-05-01 21:09:34"
+            "time": "2015-05-01T21:09:34+00:00"
         },
         {
             "name": "drush/drush",
@@ -7622,6 +7622,16 @@
             "description": "Library that helps with managing the version number of Git-hosted PHP projects",
             "homepage": "https://github.com/sebastianbergmann/version",
             "time": "2016-10-03T07:35:21+00:00"
+        },
+        {
+            "name": "simeydotme/jQuery-ui-Slider-Pips",
+            "version": "1.11.3",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/simeydotme/jQuery-ui-Slider-Pips.git",
+                "reference": "master"
+            },
+            "type": "drupal-library"
         },
         {
             "name": "solarium/solarium",
