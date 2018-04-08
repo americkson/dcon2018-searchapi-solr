@@ -8,7 +8,7 @@
 ## Set-up
 - Run: `composer install`
 - Run: `lando start`
-- Run: `lando db-import reference/db.sql.gz`
+- Run: `lando db-import reference/db-export-content.sql.gz`
 - Run: `lando drush cim sync -y`
 - Run: `lando drush sapi-c`
 - Run: `lando drush sapi-i`
